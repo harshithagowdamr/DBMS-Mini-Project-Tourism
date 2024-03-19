@@ -2,51 +2,50 @@
 
 ## Introduction:
 
-Tourism Management System is a mini-project aimed at managing various aspects of tourism activities efficiently. 
-It provides a platform for tourists to explore destinations, plan trips, book accommodations, and manage their itineraries. 
-Additionally, it assists tourism agencies in managing their services, tracking bookings, and analyzing customer preferences to enhance their offerings.
+- Tourism Management System is a mini-project aimed at managing various aspects of tourism activities efficiently. 
+- It provides a platform for tourists to explore destinations, plan trips, book accommodations, and manage their itineraries. 
+- Additionally, it assists tourism agencies in managing their services, tracking bookings, and analyzing customer preferences to enhance their offerings.
 
 ## Features:
 
-User Registration and Authentication:
+1.User Registration and Authentication:
+- Users can register on the platform by providing necessary details.
+- Authentication mechanisms ensure secure access to the system.
 
-Users can register on the platform by providing necessary details.
-Authentication mechanisms ensure secure access to the system.
-Destination Management:
+2. Destination Management:
+- Provides a comprehensive database of tourist destinations.
+- Information includes descriptions, attractions, accommodations, and activities.
+- Allows users to search and explore destinations based on various criteria like location, activities, and popularity.
 
-Provides a comprehensive database of tourist destinations.
-Information includes descriptions, attractions, accommodations, and activities.
-Allows users to search and explore destinations based on various criteria like location, activities, and popularity.
-Trip Planning:
+3. Trip Planning:
+- Enables users to plan their trips by selecting destinations, dates, and activities.
+- Provides recommendations based on user preferences and interests.
+- Allows users to customize their itineraries according to their preferences.
 
-Enables users to plan their trips by selecting destinations, dates, and activities.
-Provides recommendations based on user preferences and interests.
-Allows users to customize their itineraries according to their preferences.
-Accommodation Booking:
+4. Accommodation Booking:
+- Integrates a booking system for hotels, resorts, and other accommodations.
+- Users can search for accommodations based on location, price, and amenities.
+- Provides real-time availability and instant booking confirmation.
 
-Integrates a booking system for hotels, resorts, and other accommodations.
-Users can search for accommodations based on location, price, and amenities.
-Provides real-time availability and instant booking confirmation.
-Transportation Booking:
+5. Transportation Booking:
+- Facilitates booking transportation services like flights, trains, and rental cars.
+- Users can compare prices, schedules, and seat availability.
+- Offers seamless integration with third-party booking platforms.
 
-Facilitates booking transportation services like flights, trains, and rental cars.
-Users can compare prices, schedules, and seat availability.
-Offers seamless integration with third-party booking platforms.
-User Reviews and Ratings:
+6. User Reviews and Ratings:
+- Allows users to share their experiences by writing reviews and giving ratings.
+- Helps other users make informed decisions based on peer recommendations.
+- Provides feedback to tourism agencies for improving their services.
 
-Allows users to share their experiences by writing reviews and giving ratings.
-Helps other users make informed decisions based on peer recommendations.
-Provides feedback to tourism agencies for improving their services.
-Administration Panel:
+7. Administration Panel:
+- Admin dashboard for managing users, destinations, bookings, and reviews.
+- Tools for analyzing data, generating reports, and monitoring system performance.
+- Allows administrators to update content, manage bookings, and resolve issues.
 
-Admin dashboard for managing users, destinations, bookings, and reviews.
-Tools for analyzing data, generating reports, and monitoring system performance.
-Allows administrators to update content, manage bookings, and resolve issues.
-Payment Gateway Integration:
-
-Secure payment processing for booking accommodations, transportation, and activities.
-Supports multiple payment methods like credit/debit cards, net banking, and digital wallets.
-Ensures the confidentiality and integrity of financial transactions.
+8. Payment Gateway Integration:
+- Secure payment processing for booking accommodations, transportation, and activities.
+- Supports multiple payment methods like credit/debit cards, net banking, and digital wallets.
+- Ensures the confidentiality and integrity of financial transactions.
 
 ## Technology Stack:
 
