@@ -59,3 +59,12 @@
 - The Tourism Management System mini-project offers a user-friendly platform for tourists to plan and book their trips efficiently.
 -  It streamlines the process of exploring destinations, managing itineraries, and making reservations, thereby enhancing the overall travel experience.
 -  Additionally, it provides valuable insights to tourism agencies for improving their services and meeting the evolving needs of travelers.
+
+- Name : HARSHITHA M R
+- USN: 4MH21CS034
+- Faculty name: Victor Ikechukwu Agughasi
+
+## Contributer
+[Victor Ikechukwu Agughasi](https://github.com/Victor-Ikechukwu )
+
+[Harshitha M R](https://github.com/harshithagowdamr)
