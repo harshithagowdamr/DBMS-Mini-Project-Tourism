@@ -49,7 +49,13 @@
 
 ## Technology Stack:
 
-Frontend: HTML, CSS, JavaScript, React.js
-Backend: Node.js, Express.js
-Database: MySQL, MongoDB
-Authentication: JWT (JSON Web Tokens)
+-- Frontend: HTML, CSS, JavaScript, React.js
+-- Backend: Node.js, Express.js
+-- Database: MySQL, MongoDB
+-- Authentication: JWT (JSON Web Tokens)
+
+## Conclusion:
+
+- The Tourism Management System mini-project offers a user-friendly platform for tourists to plan and book their trips efficiently.
+-  It streamlines the process of exploring destinations, managing itineraries, and making reservations, thereby enhancing the overall travel experience.
+-  Additionally, it provides valuable insights to tourism agencies for improving their services and meeting the evolving needs of travelers.
