@@ -49,10 +49,10 @@
 
 ## Technology Stack:
 
--- Frontend: HTML, CSS, JavaScript, React.js
--- Backend: Node.js, Express.js
--- Database: MySQL, MongoDB
--- Authentication: JWT (JSON Web Tokens)
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Node.js, Express.js
+- Database: MySQL, MongoDB
+- Authentication: JWT (JSON Web Tokens)
 
 ## Conclusion:
 
